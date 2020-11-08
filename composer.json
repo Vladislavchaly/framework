@@ -1,0 +1,17 @@
+{
+    "name": "chaly/framework",
+    "authors": [
+        {
+            "name": "Chaly",
+            "email": "chaly95@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Chaly\\": "./"
+        }
+    },
+    "require": {
+
+    }
+}
